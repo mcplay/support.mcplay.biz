@@ -1,0 +1,98 @@
+# Getting Started
+In addition to vanilla enchantments, there are also server original enchantments.
+
+Those enchantments can be acquired in the same way as vanilla enchantments.
+
+# Enchant list
+- Angler
+  - Catch an additional fish per level.
+- Armored
+  - Adds armor points to Elytra.
+- Beheading
+  - Adds a chance to drop mob heads on death.
+- Brine
+  - Doubles damage if opponent is at half health or less.
+- Butcher
+  - Earn additional meat from killing mobs (Conflicts with Looting and Husbandry)
+- Curse of Exhaustion
+  - Causes more exhaustion for Minecraft actions.
+- Curse of Lag
+  - Laggggg.
+- Curse of Stagnancy
+  - Enchantments can no longer be added or modified on this item except for removed on the Grindstone (Conflicts with Curse of Contagion)
+- Drowned
+  - Drowns non-water mobs for a short time.
+- Exp. Share
+  - Increased experience drop from killing mobs and breaking blocks (Conflicts with Recycler)
+- Flower Gift
+  - Right-click flowers to drop flowers. (Conflicts with Gold Digger and Soul Reaper).
+- Fried
+  - All caught fish are automatically cooked.
+- Gold Digger
+  - Drop gold and experience when breaking cropsand nether warts. (Conflicts with Flower Gift and Soul Reaper).
+- Gung Ho
+  - Halves health but triples attack damage. (Conflicts with Life).
+- Hard Bounce
+  - Projectiles hitting the shield will bounce away at a faster rate. (Conflicts with Iron Defense).
+- Height++
+  - Increases block break radius in the up/down direction.
+- Hollow Point
+  - Deals more damage to armored opponents. Can deal damage to Endermen and shielded Withers. (Conflicts with Detonator).
+- Husbandry
+  - Gives chance to spawn a baby animal when killing animals (Conflicts with Looting and Butcher)
+- Icarus
+  - Flying upwards will increase velocity. (Conflicts with Frequent Flyer).
+- Irene's Lasso
+  - Grab animals to place elsewhere. (Conflicts with Wand).
+- Iron Defense
+  - Shield absorbs a percentage of damage when not blocking. (Conflicts with Hard Bounce).
+- Knock Up
+  - Knocks opponent into the air on hit. (Conflicts with Knockback).
+- Life
+  - Increases maximum health when worn. (Conflicts with Gung Ho).
+- Light Weight
+  - Prevents trampling crops (Conflicts with Feather Falling)
+- Magic Guard
+  - Negative potion effects removed when in offhand.
+- Moisturize
+  - Add moisture to blocks, waterlogging or changing certain block types.
+- No Rest
+  - Sleep time constantly reset to 0, causing no phantoms to spawn. (Conflicts with Unrest).
+- Pillage
+  - Increase drops from killed mobs.
+- Pushback
+  - When blocking, knocks back melee-using damaging mobs
+- Quick Strike
+  - Speeds up charge time. (Conflicts with Sharpness, Smite, Bane of Arthropods, Fire Aspect, and Shock Aspect).
+- Recycler
+  - Common loot drops will turn into experience (Conflicts with Exp. Share)
+- Sacrifice
+  - Damages mob that killed you based on your experience level.
+- Sand Veil
+  - Lowers accuracy of attacked entity's hits.
+- Shock Aspect
+  - Chance to strike attacked mobs with lightning. (Conflicts with Quick Strike).
+- Smeltery
+  - Smelt broken items. (Conflicts with Silk Touch).
+- Sniper
+  - Increased projectile speed.
+- Splatter Fest
+  - Shoots eggs in inventory from hoe on left click.
+- Stone Throw
+  - Does more damage to flying mobs.
+- Tank
+  - Increased durability.
+- Telepathy
+  - All mined blocks go straight into your inventory.
+- Toughness
+  - Adds armor toughness to armor.
+- Transmutation
+  - Turns mob loot into sea-based loot.
+- Unrest
+  - Gives night vision but phantoms will always spawn at night around you.
+- Wand
+  - Place blocks from offhand in a radius. (Conflicts with Irene's Lasso).
+- Warp
+  - Gives chance to teleport you away from damage.
+- Width++
+  - Increases block break radius in the left/right direction.
