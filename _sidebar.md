@@ -1,6 +1,7 @@
 - [Home](/)
 - [Rules](rules.md)
 - [Discord](discord.md)
+- [Vote](vote.md)
 
 - Reference
 
