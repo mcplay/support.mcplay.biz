@@ -25,4 +25,4 @@ NSFWコンテンツには不適切な可能性が高いコンテンツが多く�
 
 !> Discordサーバーに参加するには、メールアドレスが認証されたDiscordアカウントが必要です。
 
-[MCPlayNetwork Discordサーバーに参加する](https://discord.gg/HfFVxF8 ':target=_blank')
+[MCPlayNetwork Discordサーバーに参加する](https://discord.io/mcplaynetwork ':target=_blank')

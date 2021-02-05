@@ -24,4 +24,4 @@ If you agree to the rules, please click on the URL below. We welcome you to join
 
 !> You must have an email verified Discord account in order to join our Discord server.
 
-[Join the MCPlayNetwork Discord server](https://discord.gg/HfFVxF8 ':target=_blank')
+[Join the MCPlayNetwork Discord server](https://discord.io/mcplaynetwork ':target=_blank')
