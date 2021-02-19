@@ -1,27 +1,28 @@
 # Discord
-Join the MCPlayNetwork Discord server to be informed of the latest updates and future development plans. If you have a suggestion for the MCPlayNetwork, you can contact staff from the Discord server. We love suggestions from the community. Be willing to make suggestions!
+MCPlayNetwork Discordサーバーに参加することで、最新のアップデート情報と開発予定についての情報を受け取ることできます。
+また、MCPlayNetworkについて提案がある場合、Discordサーバーからスタッフに連絡できます。コミュニティからの提案を積極的に聞き入れています。是非、いろいろな提案をしてください！
 
-# Rules
-These are the rules for this Discord server. There are more important things to consider besides these, but I'll leave those to your common sense.
+# ルール
+このDiscordサーバーのルールです。これ以外にも重要なことはありますが、それらはあなたの常識におまかせします。
 
-!> Please note that other rules may apply in some cases.
+!> これら以外のルールが適用される場合もある事に、注意して下さい。
 
-1. Pay respect to the other person.
-  - Always be respectful to other users and don't create conflict. Your own self-control, not the server's staff, is the key to stopping the conflict.
-2. Do not spam.
-  - Spam has always been a problem in the online community. For many users, mass notification is a meaningless act.
-3. Do not promote advertising.
-  - Please don't advertise. The people on this server are not on the server to be advertised, at least not for something unrelated.
-4. Do not share NSFW content.
-  - There is a lot of content in NSFW content that is likely to be inappropriate. Some people see them as fine, while others dislike them.
-5. Do not share personal information.
-  - The act of sharing personal information on the Internet is very dangerous. These are rules that are designed to protect you.
-6. Do not hate other languages.
-  - All languages are allowed on this server. However, it is recommended to use English whenever possible. If someone uses a language you don't know, please use machine translation and actively try to understand it. [DeepL](https://www.deepl.com/ ':target=_blank')
+1. 相手に敬意を払ってください。
+  - 他のユーザーに常に敬意を払い、争いを起こさないで下さい。サーバーのスタッフではなく、あなた自身の自制心が、争いを止めさせることに意味があります。
+2. スパムは行わないでください。
+  - スパムは常にオンラインコミュニティで問題となっています。多くのユーザーにとって大量の通知は意味のない行為です。
+3. 宣伝行為は行わないでください。
+  - 宣伝はやめて下さい。このサーバーにいる人達は、少なくとも関係のない事を宣伝されるために、サーバーにいるわけではありません。
+4. NSFWコンテンツを共有しないでください。
+  - NSFWコンテンツには不適切な可能性が高いコンテンツが多くあります。それらを問題ないとする人もいれば、嫌う人も居ます。
+5. 個人情報を共有しないでください。
+  - 個人情報をインターネットで共有する行為は、とても危険です。これはあなたを守るために作られているルールです。
+6. 他の言語を嫌わないで下さい。
+  - このサーバーではあらゆる言語が許可されています。しかし、可能な限り英語を使うことをおすすめします。もし知らない言語を使う人がいれば機械翻訳を使い、積極的に理解しようとして下さい。[DeepL](https://www.deepl.com/ ':target=_blank')
 
-# Join
-If you agree to the rules, please click on the URL below. We welcome you to join our community!
+# 参加
+ルールに同意できる場合、下記のURLをクリックしてください。Discordサーバーへの参加を歓迎します！
 
-!> You must have an email verified Discord account in order to join our Discord server.
+!> Discordサーバーに参加するには、メールアドレスが認証されたDiscordアカウントが必要です。
 
-[Join the MCPlayNetwork Discord server](https://discord.io/mcplaynetwork ':target=_blank')
+[MCPlayNetwork Discordサーバーに参加する](https://discord.io/mcplaynetwork ':target=_blank')

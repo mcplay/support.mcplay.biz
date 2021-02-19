@@ -1,4 +1,4 @@
-# Welcome to MCPlayNetwork Support
-You can learn the rules about MCPlayNetwork on this support website.
+# MCPlayNetwork Supportへようこそ
+このサポートウェブサイトでは、MCPlayNetworkのルールについてを知ることができます。
 
-If you need support, please join Discord.
+スタッフによるサポートを必要としている場合、Discordへ参加してください。

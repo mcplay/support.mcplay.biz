@@ -1,15 +1,15 @@
-# What is the economy?
-MCPlayNetwork has a virtual currency to facilitate transactions between players. The virtual currency is used to obtain items, and players can use the virtual currency to make some transactions.
+# 経済とは？
+MCPlayNetworkにはプレイヤー間の取引を容易にするために仮想通貨があります。仮想通貨を利用することでアイテムを手に入れることができ、プレイヤーは仮想通貨を使うことで何らかの取引を行うことができます。
 
-The virtual currency in MCPlayNetwork has no value outside of the server. Each player can see how much virtual currency they have in the game. You can check it at `/bal` command.
+MCPlayNetworkの仮想通貨はサーバー以外で価値を持ちません。各プレイヤーはゲーム内での仮想通貨の保有量を確認することができます。/bal で確認することができます。
 
-# Player shop
-Players can create a shop to trade items between players.
+# プレイヤーショップ
+プレイヤーはプレイヤー間のアイテム取引のための、ショップを作成することができます。
 
-To create a shop, you must have a chest and the items you want to sell. You place the chest in the area where you want to create the shop, then `left-click` on the item you want to sell. Then simply follow the instructions in the chat.
+ショップを作成するには、チェスト、売りたいアイテムが必要です。ショップを作成したい場所にチェストを設置し、チェストを売りたいアイテムで`左クリック`します。その後はチャットの指示に従うだけです。
 
-If you want to make changes to your shop later, `left-click` on the sign on the chest. If you are the owner of the shop, the shop control panel will appear in the chat. If you want to make changes to the shop, just click on the shop control panel in the chat.
+後からショップを変更したい場合、チェストに設置された看板を`左クリック`してください。ショップの所有者である場合、チャットにショップコントロールパネルが表示されます。変更したい項目を、チャットをクリックしてください。
 
-# Useful Commands
-- `/bal` - Check your current balance
-- `/pay <player> <amount>` - Pay other players
+# コマンド
+- `/bal` - 所持金を確認
+- `/pay <player> <amount>` - 他プレイヤーに支払う

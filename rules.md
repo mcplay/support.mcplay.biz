@@ -1,33 +1,34 @@
-# Introduction
-These rules are intended to provide a fair and enjoyable gameplay experience for all players.
-All rules listed apply to all players, regardless of player, rank, or any other factor.
+# ルール
+ルールは、すべてのプレイヤーに公平で楽しいゲームプレイを提供するために設けられています。これらのルールはプレイヤーへの事前の通知なしに変更されることがあり、ここに記載されていなくてもスタッフがコミュニティに不利益を与えると判断した場合は、スタッフの裁量で罰則を課す可能性があります。
 
-The staff team reserves the right at all times to
-  1. The right to change the rules without prior notice
-  2. The Right to Make Exceptions
-  3. The right to enforce the rules at its own discretion
+## グローバル ルール
+すべてのサーバーとすべてのゲームモードに適用されます。
 
-# Global rules
-The following rules apply to all servers unless otherwise noted.
-  1. No advertising
-    - Advertising of services not related to MCPlayNetwork is not allowed.
-  2. No inappropriate content
-    - Sharing inappropriate images or websites is not allowed.
-    - "IRL deals" is not allowed.
-    - Do not share the phishing link.
-  3. No offensive chatting
-    - Do not use defamatory, insulting, harassing, malicious, discriminatory, or obscene language.
-  4. No profane, inflammatory, or harassing language
-    - Choose wisely the words that are neutral and not offensive to anyone.
-  5. No sharing of personal information
-    - Personal information includes IP, name, email address, phone number, etc.
-    - Share other people's personal information, or your own personal information is not allowed.
-  6. No cheating and exploiting
-    - Client performance changes, drawing changes, HUD changes, minimaps (without entities and players) are allowed.
-    - If you find a bug or exploit, please report it in the Discord or Forum.
-  7. No intentionally crashing or producing lag
+### 不正行為
+1. バニラプレイヤーよりも有利になるようなクライアントへの変更は禁止です。
+  - 以下の変更が行われるMODは許可されます。
+    - OptiFine
+    - シェーダー
+    - HUDでプレイヤー情報を表示するMOD
+2. バグを悪用する行為は禁止です。
+  - バニラのバグは、アイテムの複製を除いて基本的に許可されています。
+  - バグを発見した場合は、公開せずに適切な手段でスタッフに連絡してください。
 
-# Survival rules
-This section applies only in Survival servers.
-  1. No griefing and stealing
-  2. No killing of the player
+### チャット
+1. すべてのチャットでスパム行為は禁止です。
+2. 他のプレイヤーに不快感を与えるようなチャットは禁止です。
+  - どんな話題でも議論することは許可されます。
+  - しかしながら、誹謗中傷、侮辱的、嫌がらせ、悪意のある表現、差別的、わいせつな言葉は使用しないでください。
+3. 冒涜的、扇動的、嫌がらせ的な言葉を使うことは禁止です。
+  - チャットは公開されています。中立的で誰にも不快感を与えない言葉を賢く選んでください。
+4. IP、氏名、メールアドレス、電話番号などの個人情報を共有することは禁止です。
+5. ルールの違反者を公に非難することは禁止です。
+
+### その他
+1. 意図的にサーバーをクラッシュさせたり、ラグを発生させたりすることは禁止です。
+2. 他のサーバーやサービスの宣伝は禁止です。
+
+## サバイバル ルール
+1. どのような形であっても、グリーフィングや盗むことは禁止です。
+  - 保護されていないチェストやMobの殺害が含まれます。
+2. 許可なく他のプレイヤーを殺すことは禁止です。

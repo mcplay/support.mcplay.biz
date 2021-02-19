@@ -1,9 +1,9 @@
-!> In the future, all current custom enchantments will be disabled and new custom enchantments will be added. For more information, please join the Discord server and check it out.
+!> 将来的に現在のカスタムエンチャントは全て無効になり、新たなカスタムエンチャントが追加されます。詳細についてはDiscordサーバーへ参加して確認して下さい。
 
-# Getting Started
-In addition to vanilla enchantments, there are also server original enchantments.
+# はじめに
+バニラのエンチャントに加えて、サーバーオリジナルのエンチャントもあります。
 
-Those enchantments can be acquired in the same way as vanilla enchantments.
+これらのエンチャントはバニラのエンチャントと同じように取得することができる。
 
 # Enchant list
 - Angler

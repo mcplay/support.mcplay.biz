@@ -1,4 +1,0 @@
-# MCPlayNetwork Supportへようこそ
-このサポートウェブサイトでは、MCPlayNetworkのルールについてを知ることができます。
-
-スタッフによるサポートを必要としている場合、Discordへ参加してください。

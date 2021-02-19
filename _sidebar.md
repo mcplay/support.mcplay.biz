@@ -1,9 +1,9 @@
-- [Home](/)
-- [Rules](rules.md)
-- [Discord](discord.md)
-- [Vote](vote.md)
+- [ホーム](/ja/)
+- [ルール](/ja/rules.md)
+- [Discord](/ja/discord.md)
+- [投票](/ja/vote.md)
 
-- Features
-  - [Custom enchants](custom-enchants.md)
-  - [Land claiming](land-claiming.md)
-  - [Economy](economy.md)
+- 機能
+  - [カスタムエンチャント](/ja/custom-enchants.md)
+  - [土地保護](/ja/land-claiming.md)
+  - [経済](/ja/economy.md)
