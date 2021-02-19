@@ -1,3 +1,5 @@
+!> In the future, all current custom enchantments will be disabled and new custom enchantments will be added. For more information, please join the Discord server and check it out.
+
 # Getting Started
 In addition to vanilla enchantments, there are also server original enchantments.
 
