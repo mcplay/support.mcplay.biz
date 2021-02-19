@@ -7,3 +7,4 @@
   - [カスタムエンチャント](custom-enchants.md)
   - [土地保護](land-claiming.md)
   - [経済](economy.md)
+  - [スライムチャンク](slime-chunks.md)
