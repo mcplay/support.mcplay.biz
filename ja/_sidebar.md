@@ -4,6 +4,6 @@
 - [投票](/ja/vote.md)
 
 - 機能
-  - [Custom enchants](/ja/custom-enchants.md)
-  - [Land claiming](/ja/land-claiming.md)
-  - [Economy](/ja/economy.md)
+  - [カスタムエンチャント](/ja/custom-enchants.md)
+  - [土地保護](/ja/land-claiming.md)
+  - [経済](/ja/economy.md)
