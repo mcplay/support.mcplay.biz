@@ -3,8 +3,7 @@
 - [Discord](discord.md)
 - [Vote](vote.md)
 
-- Reference
-
+- Features
   - [Custom enchants](custom-enchants.md)
   - [Land claiming](land-claiming.md)
   - [Economy](economy.md)
