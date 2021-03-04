@@ -1,8 +1,8 @@
-# MCPlayNetwork <small>3.5</small>
+![logo](_media/logo.png)
 
-![logo](_images/logo.png)
+# MCPlayNetwork
 
 > Minecraft: Java Edition 1.8.x - 1.16.x
 > A simple and freedom Minecraft Survival
 
-![color](#f0f0f0)
+![](_media/bg.png)
