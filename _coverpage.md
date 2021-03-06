@@ -1,3 +1,4 @@
+
 ![logo](_media/logo.png)
 
 # MCPlayNetwork
@@ -7,5 +8,3 @@
 
 [website](https://www.mcplay.biz/)
 [Join](#)
-
-![](_media/bg.png)
