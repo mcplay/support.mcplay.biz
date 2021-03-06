@@ -8,3 +8,5 @@
 
 [website](https://www.mcplay.biz/)
 [Join](#)
+
+![](_media/bg.png)
