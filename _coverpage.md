@@ -1,5 +1,5 @@
 
-![logo](https://www.mcplay.biz/_media/logo.png)
+![logo](/_media/logo.png)
 
 # MCPlayNetwork
 
