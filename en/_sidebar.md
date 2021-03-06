@@ -1,9 +1,9 @@
-- [Home](/en/)
-- [Rules](/en/rules.md)
-- [Discord](/en/discord.md)
-- [Vote](/en/vote.md)
+- [Home]()
+- [Rules](rules.md)
+- [Discord](discord.md)
+- [Vote](vote.md)
 
 - Features
-  - [Custom enchants](/en/custom-enchants.md)
-  - [Land claiming](/en/land-claiming.md)
-  - [Economy](/en/economy.md)
+  - [Custom enchants](custom-enchants.md)
+  - [Land claiming](land-claiming.md)
+  - [Economy](economy.md)

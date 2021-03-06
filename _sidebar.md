@@ -1,4 +1,4 @@
-- [ホーム](/)
+- [ホーム]()
 - [ルール](rules.md)
 - [Discord](discord.md)
 - [投票](vote.md)
