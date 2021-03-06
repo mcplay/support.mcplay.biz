@@ -3,7 +3,7 @@
 
 # MCPlayNetwork
 
-> Minecraft:Java Edition 1.8.x - 1.16.x  
+> Minecraft Java Edition 1.8.x - 1.16.x  
 > シンプルかつ自由なマインクラフトサバイバル
 
 [参加](#MCPlayNetwork)
