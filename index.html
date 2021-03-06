@@ -17,10 +17,15 @@
       name: 'MCPlayNetwork Help',
       repo: '',
       onlyCover: true,
-      coverpage: true,
+      coverpage: {
+        '/': '_coverpage.md',
+        '/en/': '_coverpage.md',
+      },
+      fallbackLanguages: ['en', 'fr', `de`],
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
+      auto2top: true,
       search: 'auto'
     }
   </script>

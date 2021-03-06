@@ -3,8 +3,8 @@
 
 # MCPlayNetwork
 
-> Minecraft:Java Edition 1.8.x - 1.16.x  
-> シンプルかつ自由なマインクラフトサバイバル
+> Minecraft: Java Edition 1.8.x - 1.16.x  
+> A simple and freedom Minecraft Survival
 
 [website](https://www.mcplay.biz/)
 [Join](/join)
