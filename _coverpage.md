@@ -7,6 +7,6 @@
 > A simple and freedom Minecraft Survival
 
 [website](https://www.mcplay.biz/)
-[Join](#)
+[Join](#welcome)
 
 ![](_media/bg.png)
