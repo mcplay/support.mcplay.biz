@@ -7,6 +7,6 @@
 > シンプルかつ自由なマインクラフトサバイバル
 
 [website](https://www.mcplay.biz/)
-[Join](/join)
+[Join](#MCPlayNetwork)
 
 ![](_media/bg.png)
