@@ -1,4 +1,4 @@
-# Introduction
+# Rules
 These rules are intended to provide a fair and enjoyable gameplay experience for all players.
 All rules listed apply to all players, regardless of player, rank, or any other factor.
 
@@ -24,7 +24,7 @@ The following rules apply to all servers unless otherwise noted.
     - Share other people's personal information, or your own personal information is not allowed.
   6. No cheating and exploiting
     - Client performance changes, drawing changes, HUD changes, minimaps (without entities and players) are allowed.
-    - If you find a bug or exploit, please report it in the Discord or Forum.
+    - If you find a bug or exploit, please report it.
   7. No intentionally crashing or producing lag
 
 # Survival rules
