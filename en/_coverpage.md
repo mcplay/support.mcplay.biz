@@ -8,5 +8,3 @@
 
 [Join](#MCPlayNetwork)
 [Discord](discord)
-
-![](/_media/bg.png)
