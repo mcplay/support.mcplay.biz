@@ -1,9 +1,12 @@
-- [Home]()
-- [Rules](rules.md)
-- [Discord](discord.md)
-- [Vote](vote.md)
+* [ホーム]()
+* [Rules](rules.md)
 
-- Features
+- Guide
+  - [Vote](vote.md)
   - [Custom enchants](custom-enchants.md)
   - [Land claiming](land-claiming.md)
   - [Economy](economy.md)
+
+- More
+  - [Twitter](https://twitter.com/MCPlayNetwork)
+  - [Discord](discord.md)
