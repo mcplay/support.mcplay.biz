@@ -21,12 +21,24 @@
         '/en/': '_coverpage.md',
       },
       relativePath: true,
+      routerMode: 'history',
       fallbackLanguages: ['en', 'fr', `de`],
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
       auto2top: true,
-      search: 'auto'
+      search: 'auto',
+      plugins: [
+        function (hook) {
+          hook.doneEach(function () {
+            const current = window.location.hash
+
+            if (current.startsWith('#/')) {
+              window.location.href = current.replace(/^#\//, '/')
+            }
+          })
+        }
+      ]
     }
   </script>
 
