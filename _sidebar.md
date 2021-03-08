@@ -2,6 +2,7 @@
 * [ルール](rules.md)
 
 - ガイド
+  - [コマンド一覧](commands.md)
   - [投票](vote.md)
   - [カスタムエンチャント](custom-enchants.md)
   - [土地保護](land-claiming.md)
